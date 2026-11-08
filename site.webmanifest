@@ -1,0 +1,13 @@
+{
+  "name": "ZELENA",
+  "short_name": "ZELENA",
+  "description": "Medizinalhanf & CBD aus der Ukraine – Investment für Schweizer Investoren",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#0e5434",
+  "icons": [
+    {"src": "/favicon/favicon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/favicon/favicon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
